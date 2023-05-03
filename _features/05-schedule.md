@@ -161,6 +161,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1MCfPiwOIG-v77YLUFW7iJmGVewiWAYbE">Notebook: Random Forests y exploración aleatorizada</a><br>
 				</td>
 				<td>
+					<a href= "practica6.5.pdf">Práctica 6.5</a><br>
 				</td>
 			</tr>
 			<tr>
