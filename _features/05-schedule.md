@@ -247,7 +247,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 12</td>
+				<td>Jun 14</td>
 				<td>
 				</td>
 				<td>
@@ -267,6 +267,16 @@ image:
 					<br>
 					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">slides</a>)<br>
 					Reducción de la dimensionalidad con PCA (<a href= "https://colab.research.google.com/drive/1UO8TZ4oRsjHhDOaIbU3xM0Ndsf_5QQb8">notebook</a>)
+				</td>
+				<td>
+				</td>				
+			</tr>
+			<tr>
+				<td>Jun 15</td>
+				<td>
+				</td>
+				<td>
+					<b>Eentrega Proyecto Final</b>
 				</td>
 				<td>
 				</td>				
